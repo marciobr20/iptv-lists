@@ -1,0 +1,10 @@
+#EXTINF:-1 tvg-id="CNNUSA.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN USA (720p)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-country="US" tvg-language="English" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="News",Fox News Channel (720p)
+http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-country="US" tvg-language="English" tvg-logo="https://static-s.aa-cdn.net/img/ios/396885309/4ad7161a83db264f3ba4b62ef1ab662a?v=1" group-title="News",MSNBC (720p)
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVUS.us" tvg-country="US" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Business",Bloomberg TV US (1080p)
+https://bloomberg-bloomberg-1-be.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCNews.us" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="News",ABC News (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
