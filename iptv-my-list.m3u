@@ -18,7 +18,9 @@ http://wagmaott.com:8080/mhdsat-adminqJluQHhUPg/5AchGBNS4S/42086
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26900
 #EXTINF:-1 tvg-id="globo mg fhd" tvg-country="BR" tvg-language="Portuguese" group-title="BR",Globo MG FHD
 http://king-tv.online:80/wctinney/aRaD1Pq2Rg/274620.ts
-#EXTINF:-1 tvg-id="band news 4k" tvg-country="BR" tvg-language="Portuguese" group-title="BR News", Band News 4k
+#EXTINF:-1 tvg-id="band news 4k" tvg-country="BR" tvg-language="Portuguese" group-title="BR News", Band News HD
 http://srv-source.stream:80/toptv/XGmvmQefc3/2166
-#EXTINF:-1 tvg-id="globo news uhd" tvg-country="BR" tvg-language="Portuguese" group-title="BR News", Globo News UHD
+#EXTINF:-1 tvg-id="globo news uhd" tvg-country="BR" tvg-language="Portuguese" group-title="BR News", Globo News HD
 http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/448
+#EXTINF:-1 tvg-id="record news uhd" tvg-country="BR" tvg-language="Portuguese" group-title="BR News", Record News HD
+http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/451
