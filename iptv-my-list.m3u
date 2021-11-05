@@ -14,3 +14,5 @@ https://news12-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b4
 https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
 #EXTINF:-1 tvg-id="CNBC" tvg-country="US" tvg-language="English" group-title="News",CNBC
 https://h5.ustvgo.la/CNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDIxIDE6MzE6NTIgQU0maGFzaF92YWx1ZT1CS3hXcTlXMGp5ODVERTRpOW1aRFZRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-id="Fox Business" tvg-country="US" tvg-language="English" group-title="News",Fox Business
+https://h5.ustvgo.la/FoxBusiness/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNS8yMDIxIDE6Mzg6NTUgQU0maGFzaF92YWx1ZT1BNVRGZTRuOURyUkJNeks0SzJLcURRPT0mdmFsaWRtaW51dGVzPTI0MA==
