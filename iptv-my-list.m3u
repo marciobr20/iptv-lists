@@ -14,6 +14,8 @@ https://news12-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b4
 https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
 #EXTINF:-1 tvg-id="CNBC" tvg-country="US" tvg-language="English" group-title="News",CNBC
 http://wagmaott.com:8080/mhdsat-adminqJluQHhUPg/5AchGBNS4S/42086
+#EXTINF:-1 tvg-id="CNBC_SD" tvg-country="US" tvg-language="English" group-title="News",CNBC SD
+https://h3.ustvgo.la/CNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDExOjQ3OjAwIFBNJmhhc2hfdmFsdWU9QlVBT1NVVEhTdC9BaytkZHhNTnd6QT09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:-1 tvg-id="Fox Business" tvg-country="US" tvg-language="English" group-title="News",Fox Business
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26900
 #EXTINF:-1 tvg-id="globo brasilia fhd" tvg-country="BR" tvg-language="Portuguese" group-title="BR",Globo Brasilia FHD
