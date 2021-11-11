@@ -26,3 +26,5 @@ http://srv-source.stream:80/toptv/XGmvmQefc3/2166
 http://solutionplay.xyz:8080/techruthes/10987658/6108
 #EXTINF:-1 tvg-id="record news uhd" tvg-country="BR" tvg-language="Portuguese" group-title="BR News", Record News HD
 http://newxplusnew2.xyz:2095/NEW_LIVE3870760065/2271604026/451
+#EXTINF:-1 tvg-id="CNBC_1" tvg-country="US" tvg-language="English" group-title="News",CNBC HD1
+https://list.iptvcat.com/my_list/s/4c88670821b0f667e1c63c92419645bf.m3u8
