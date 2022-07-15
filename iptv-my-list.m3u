@@ -1,3 +1,28 @@
+#EXTM3U
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO INTERNACIONAL
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/242028?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO NEWS
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/242030?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO MINAS
+http://168.205.87.198:8555/live/JOSEE/123456/70.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO SP
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/242037?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",RECORD NEWS
+http://168.205.87.198:8555/live/1431/123456/97.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD SP
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/242086?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CNN News FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/130940?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CNN News.
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137236?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CNBC HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137326?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Fox News HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137438?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",C-Span 2
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137317?checkedby:iptvcat.com
+
+
 #EXTINF:-1,Fox News HD US
 http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/14358
 #EXTINF:-1,Fox News [B] HD US
