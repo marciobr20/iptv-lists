@@ -1,16 +1,12 @@
-#EXTINF:-1 tvg-id="" tvg-name="US: CNBC" tvg-logo="" group-title="USA | USA",US: CNBC
-https://tvecable-web-y.akamaized.net/v1/manifest/8731b4a01f4c78c237c9c596da70a09cf1742ab7/PROD_ONEAPP_WEB_DAI/de828b7a-cd5a-4909-9158-e393017a4824/hdntl=exp=1669584531~acl=%2f*~data=hdntl~hmac=212bc91ed396af50da795c307e0d782d097131d6e33e8845ed5aec164d07693a/0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US: MSNBC" tvg-logo="" group-title="USA | USA",US: MSNBC
-https://tvecable-web-y.akamaized.net/v1/manifest/8731b4a01f4c78c237c9c596da70a09cf1742ab7/PROD_ONEAPP_WEB_DAI/b7462977-3993-48d4-80ca-289daa3a369f/hdntl=exp=1669584574~acl=%2f*~data=hdntl~hmac=b276cc0ee6a7d43a359133b1f1585b57e71349300f69ad9704f911f4ef77f329/0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US: E!" tvg-logo="" group-title="USA | USA",US: E!
-https://tvecable-web-y.akamaized.net/v1/manifest/8731b4a01f4c78c237c9c596da70a09cf1742ab7/PROD_ONEAPP_WEB_DAI/bb5b3a05-22b5-49c3-b650-dacf647d984d/hdntl=exp=1669584483~acl=%2f*~data=hdntl~hmac=924bad2ceb91a6215e685f07295cd0ad02175ed6c6a442c987fe1054d5929c10/0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS" tvg-logo="" group-title="USA | USA",US: FOX SPORTS
-https://foxvideo.akamaized.net/exp=1669488564~acl=%2f*~hmac=ab6d6065b56cc1e49e6b7d897a49c7acb82411b507de4d51147d0f0b7883297d/fast/csm/live/371484684/7.m3u8;jsessionid=BA121D5F1FA8CFC53662F6576A59A0CC.csm-e-cefoxause1live416-06e1dafeda2f66b62.tls1.yospace.com?yo.aas=true&yo.pk=true&yo.ap=/exp=1669488564~acl=%2f*~hmac=ab6d6065b56cc1e49e6b7d897a49c7acb82411b507de4d51147d0f0b7883297d/fast/&ad_env=1&_fw_ae=5525ff59adcaac313923ab89d0a618c5&_fw_did=8b6b7923-ceb6-be43-f02d-501a47c2934a&_fw_seg=&_fw_vcid2=516429%3A8b6b7923-ceb6-be43-f02d-501a47c2934a&ad=fw_prod&ad.csid=fsapp%2Fwebdesktop%2Flive%2Ffox&ad.flags=+slcb+sltp+qtcb+emcr+fbad+dtrd+vicb&ad.prof=516429%3Ayospace_foxsports_webdesktop_live&cdn=ak&exp=1669402224&fnl-affiliate=WNYW&fs-affiliate=WNYW&traceid=watch-328099934f1fd254&yo.av=4&yo.pdt=true&yo.po=32s&yo.ug=07094&headerbidding=%26_fw_is_lat%3D1&yo.up=/exp=1669488564~acl=%2f*~hmac=ab6d6065b56cc1e49e6b7d897a49c7acb82411b507de4d51147d0f0b7883297d/fast/&ss.exp=1669488564&ss.sig=2ymqANzxEHP0iTX1QuipGGkONp8=&externalId=tx001
+#EXTINF:-1 tvg-id="" tvg-name="US: Cnbc HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/28675971911.png" group-title="USA | News TV",US: Cnbc HD
+http://c.geoiptv.net:8880/live/49936160/36647169/28804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Business Network HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/52018486681.png" group-title="USA | Entertainment TV",US: Fox Business Network HD
+http://c.geoiptv.net:8880/live/49936160/36647169/79758.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Msnbc" tvg-logo="https://img-cdn.curl.pk/channels_icon/66185185891.png" group-title="USA | News TV",US: Msnbc
+http://c.geoiptv.net:8880/live/49936160/36647169/28918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: Cnn FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/20158395251.png" group-title="USA | News TV",US: Cnn FHD
+http://c.geoiptv.net:8880/live/49936160/36647169/117033.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="US: NEWS12" tvg-logo="" group-title="USA | USA",US: NEWS12 NJ
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="US: FOX BUSINESS" tvg-logo="" group-title="USA | USA",US: FOX BUSINESS
 https://247.foxbusiness.com/hls/live/2003756/FBNHLSv3/master_2692.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US: USA" tvg-logo="" group-title="USA | USA",US: USA
-https://tvecable-web-y.akamaized.net/v1/manifest/8731b4a01f4c78c237c9c596da70a09cf1742ab7/PROD_ONEAPP_WEB_DAI/99adf3b9-89d1-46ee-9439-1f2c39055d1d/hdntl=exp=1669584620~acl=%2f*~data=hdntl~hmac=84ebf6f2621826dcd136d50591a5ae65462db90e074c55e54fa00d1409e93a14/0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US: SYFY" tvg-logo="" group-title="USA | USA",US: SYFY
-https://tvecable-web-y.akamaized.net/v1/manifest/8731b4a01f4c78c237c9c596da70a09cf1742ab7/PROD_ONEAPP_WEB_DAI/3901c3c9-63d4-4bc6-b948-3319fa156cf0/hdntl=exp=1669584689~acl=%2f*~data=hdntl~hmac=d013dbf742ff63dc149e5f0611cf07884590f81a9edba0a7dcc3e655e1ce2a80/0.m3u8
