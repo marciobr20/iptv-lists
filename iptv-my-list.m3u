@@ -1,12 +1,2 @@
 #EXTINF:-1 tvg-id="" tvg-name="US: Cnbc HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/28675971911.png" group-title="USA | News TV",US: Cnbc HD
-http://c.geoiptv.net:8880/live/49936160/36647169/28804.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US: Fox Business Network HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/52018486681.png" group-title="USA | Entertainment TV",US: Fox Business Network HD
-http://c.geoiptv.net:8880/live/49936160/36647169/79758.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US: Msnbc" tvg-logo="https://img-cdn.curl.pk/channels_icon/66185185891.png" group-title="USA | News TV",US: Msnbc
-http://c.geoiptv.net:8880/live/49936160/36647169/28918.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US: Cnn FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/20158395251.png" group-title="USA | News TV",US: Cnn FHD
-http://c.geoiptv.net:8880/live/49936160/36647169/117033.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US: NEWS12" tvg-logo="" group-title="USA | USA",US: NEWS12 NJ
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX BUSINESS" tvg-logo="" group-title="USA | USA",US: FOX BUSINESS
-https://247.foxbusiness.com/hls/live/2003756/FBNHLSv3/master_2692.m3u8
+https://delivery-node-khabir.voe-network.net/engine/hls2/01/00449/c124bclce2al_n/master.m3u8?t=sJIF6f280GdVzcuitayUBPk--K3ZINaFkwRSlu2et7k&s=1687030962&e=14400&f=2246295&node=delivery-node-khabir.voe-network.net&i=73.150&sp=3500&asn=7922
