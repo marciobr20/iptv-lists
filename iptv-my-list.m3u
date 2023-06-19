@@ -1,8 +1,2 @@
-#EXTINF:-1 tvg-id="" tvg-name="SUITS" group-title="USA | Suits",S8: E6
-https://delivery-node-alia.voe-network.net/engine/hls2/01/00449/8chwgpqtclmc_n/master.m3u8?t=A04F3EP6pQTRNJgQTY-tOBbqSWRJpbPj0PuGWstJyQY&s=1687123175&e=14400&f=2246369&node=delivery-node-alia.voe-network.net&i=73.150&sp=3500&asn=7922
-#EXTINF:-1 tvg-id="" tvg-name="SUITS" group-title="USA | Suits",S8: E7
-https://delivery-node-fr73jnefgzvhktne.voe-network.net/engine/hls2/01/00449/e1uxgnzifft8_n/master.m3u8?t=9_s3fpWmXqs_UylGnM_OV2oKQMOKZlIXTW6dDGC6Lk4&s=1687123217&e=14400&f=2246382&node=delivery-node-fr73jnefgzvhktne.voe-network.net&i=73.150&sp=3500&asn=7922
-#EXTINF:-1 tvg-id="" tvg-name="SUITS" group-title="USA | Suits",S8: E8
-https://delivery-node-xqrgj99p8krmzj4e.voe-network.net/engine/hls2/01/00449/p8zkret9ssko_n/master.m3u8?t=nc2wRSyYVzpU1Z6zj-_qWKNtfQ0FqVezIeKSzII-v7s&s=1687123244&e=14400&f=2246406&node=delivery-node-xqrgj99p8krmzj4e.voe-network.net&i=73.150&sp=3500&asn=7922
-#EXTINF:-1 tvg-id="history_channel" tvg-name="IPTV" group-title="USA | History Channel FHD"
+#EXTINF:-1 tvg-id="" tvg-name="HIST" group-title="USA | History Channel HD"
 http://192.168.0.99:34300/play/idn3aab97fe/648fb0d7509bfb53a17ed305.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.I8fANlOUTQ5A6FKLd6mgawlPkAuQeaORPn6fPkCfcnYjm4eFzia5kPbSvBxbEqWdwkOAkBKRjjbRl1GvWMO97A
