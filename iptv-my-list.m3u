@@ -1,6 +1,4 @@
-#EXTINF:-1 tvg-id="" tvg-name="SUITS" group-title="USA | Suits",S8: E9
-https://delivery-node-nep5g34trn5ozzkx.voe-network.net/engine/hls2/01/00449/o6ueblv0jmhs_n/master.m3u8?t=xmMk0ZHZtqhBT70_2jeZJuab8Uor95gwLoSrwefPees&s=1687219935&e=14400&f=2246407&node=delivery-node-nep5g34trn5ozzkx.voe-network.net&i=73.150&sp=3500&asn=7922
-#EXTINF:-1 tvg-id="" tvg-name="SUITS" group-title="USA | Suits",S8: E10
-https://delivery-node-5ytyoi3qo2ns2kik.voe-network.net/engine/hls2/01/00449/knzorullru4m_n/master.m3u8?t=R54i_V5XcQJIIgXtIc5sSDquqBPpL_Z7DAXo64lXh08&s=1687219983&e=14400&f=2246478&node=delivery-node-5ytyoi3qo2ns2kik.voe-network.net&i=73.150&sp=3500&asn=7922
 #EXTINF:-1 tvg-id="" tvg-name="SUITS" group-title="USA | Suits",S8: E11
 https://delivery-node-fiqar.voe-network.net/engine/hls2/01/00449/vk7a2027qq70_n/master.m3u8?t=g-YPBltHtbl_KFCEwxp-_VlUFUUWwBe2_luWaUT1mow&s=1687220004&e=14400&f=2246479&node=delivery-node-fiqar.voe-network.net&i=73.150&sp=3500&asn=7922
+#EXTINF:-1 tvg-id="" tvg-name="SUITS" group-title="USA | Suits",S8: E12
+https://delivery-node-wala.voe-network.net/engine/hls2/01/00449/yuhgc0qbts66_n/master.m3u8?t=rFAOn20jmlWzhDkhl4uhROIq3leWf0jO8pf2xCCe1dE&s=1687306997&e=14400&f=2246527&node=delivery-node-wala.voe-network.net&i=73.150&sp=3500&asn=7922
