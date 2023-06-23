@@ -1,2 +1,4 @@
 #EXTINF:-1 tvg-id="" tvg-name="SUITS" group-title="USA | Suits",S8: E15
-http://5.182.231.218:3162/series/qwerty7/7ytrewq/582543.mkv?token=VzdINUMxUW1GeEhWWWw0
+https://delivery-node-rafa.voe-network.net/engine/hls2/01/00449/ddv3s2cev8ms_n/master.m3u8?t=FpkphWCCwO0LSpKaL3zpBHiF_I5P-T9pUd0C0EP0GtA&s=1687558719&e=14400&f=2246553&node=delivery-node-rafa.voe-network.net&i=73.150&sp=3500&asn=7922
+#EXTINF:-1 tvg-id="" tvg-name="SUITS" group-title="USA | Suits",S8: E16
+https://delivery-node-3xla2jtrajrj6nth.voe-network.net/engine/hls2-c/01/00449/dkhxqbtuaxed_n/master.m3u8?t=0bRJj2Ft6S5ZHX-RG5SgZ8xWcFLVVTbS377hX_AX_mU&s=1687558780&e=14400&f=2246555&node=delivery-node-jfz54ijskijzgera.voe-network.net&i=73.150&sp=3500&asn=7922
